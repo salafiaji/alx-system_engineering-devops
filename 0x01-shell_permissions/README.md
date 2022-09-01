@@ -48,7 +48,7 @@ Adds execution permission to the owner, the group owner and the other users, to 
 
 8-James_Bond
 
-Sets the permission to the file hello
+Sets the permission to the file hello.
 
 
 
